@@ -8,6 +8,8 @@ import { DsHeaderModule } from '@bmw-ds/components';
 import { DsImprintModule } from '@bmw-ds/components';
 import { DsBoxModule } from '@bmw-ds/components';
 import { DsButtonModule } from '@bmw-ds/components';
+import { DsFormsModule } from '@bmw-ds/components'; // Includes all form components
+import { DsFormFieldModule } from '@bmw-ds/components';
 
 @NgModule({
   declarations: [
