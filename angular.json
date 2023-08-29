@@ -30,6 +30,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/@bmw-ds/components/density-styles/styles/scss/density-styles-ng.scss",
               "src/styles.scss"
             ],
             "scripts": []
